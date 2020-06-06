@@ -12,7 +12,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.4.3",
     "apollo-server": "^2.4.8",
-    "apollo-server-express": "^2.4.8",
+    "apollo-server-express": "^2.14.2",
     "express": "^4.16.4",
     "graphql": "^14.2.1",
     "graphql-redis-subscriptions": "^2.1.0",
